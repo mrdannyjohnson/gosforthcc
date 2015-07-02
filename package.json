@@ -1,14 +1,16 @@
 {
-  "name": "bot",
-  "version": "1.0.0",
-  "description": "My Bot",
-  "main": "gosforth.cc twitter bot",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "mrdannyjohnson",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.12.4"
-  }
+	"name": "gosforthcc",
+	"version": "1.0.0",
+	"description": "gosforthcc twitter bot",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"author": "@mrdannyjohnson",
+	"license": "ISC",
+	"dependencies": {
+		"async": "~0.9.0",
+		"node-schedule": "~0.2.8",
+		"twit": "~1.1.20",
+	}
 }
