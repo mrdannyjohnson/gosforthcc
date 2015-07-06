@@ -5,10 +5,10 @@ var rsj = require('rsj');
 
 
 var T = new Twit({
-    consumer_key:         'MBHtrLb4FsluxcHXfia587kQM',
-	consumer_secret:      'JmzdD4WttRZ0rkHckV2ezwbL3mPyvjOOcgDCWfaROL46ALpM1K',
-	access_token:         '3346328271-ygHWTQ01wmA3Hj7oI49RPheGtiR2atKVPws8WvO',
-	access_token_secret:  'Ks7aWIxHvijeYquHitHoIdnc8jtTUyqp1J8KcjQF2SI14'
+    consumer_key:         '',
+	consumer_secret:      '',
+	access_token:         '',
+	access_token_secret:  ''
 });
 
 console.log("starting bot");

@@ -2,10 +2,10 @@ var Twit = require('twit');
 var schedule = require('node-schedule');
 
 var T = new Twit ({
-	consumer_key:         'UgS5whAchDGHRdZIpMBgzA',
-	consumer_secret:      'DofEU1Rcen1jim2eUYfIzbmRZyBPyv1qbOA2gahJVB4',
-	access_token:         '252587815-PWNmKS7b40C2fqXKehZmOESkp4gpE2Dg40oJFYEH',
-	access_token_secret:  'bmRVkpRmY6I3WuNJBfEu6FMzJIKQfhUHfZX2528qtfVRc'
+	consumer_key:         '',
+	consumer_secret:      '',
+	access_token:         '',
+	access_token_secret:  ''
 });
 
 //schedule 
